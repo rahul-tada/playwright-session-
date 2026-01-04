@@ -21,5 +21,16 @@
     "playwright": "^1.57.0",
     "playwright-core": "^1.57.0"
   },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul-tada/playwright-session-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahul-tada/playwright-session-/issues"
+  },
+  "homepage": "https://github.com/rahul-tada/playwright-session-#readme",
   "description": ""
 }
